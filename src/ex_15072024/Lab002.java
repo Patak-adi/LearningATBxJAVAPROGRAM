@@ -5,7 +5,7 @@ public class Lab002 {
         int b = 10;
         int a = 10;
         int c = (a + b);
-        System.out.println("c");
+        System.out.println(c);
 
     }
 }
